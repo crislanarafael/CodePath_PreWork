@@ -1,7 +1,7 @@
 ## HelloWorld Android App
 
 ### App Description
-`A simple Android App to complete CodePath's Intro to Mobile App Development Spring 2022 Course
+A simple Android App to complete the Pre-Work for CodePath's Intro to Mobile App Development Spring 2022 Course
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
